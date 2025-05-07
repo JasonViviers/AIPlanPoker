@@ -1,0 +1,6 @@
+Always respond in english.
+Keep the UI consistent.
+Don't ask, just do what you think is best.
+Follow DRY principles.
+Keep going until I say stop.
+Keep files under 500 lines, if they go over this, refactor and break into smaller components.
